@@ -1,4 +1,4 @@
-python pi1 &
-python pi2 &
-python pi3 &
-python pi4 &
+python pi1.py &
+python pi2.py &
+python pi3.py &
+python pi4.py &
