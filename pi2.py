@@ -1,7 +1,7 @@
 f = open("RAM.txt")
 lines = f.readlines()
 for line in lines:
-    x = 3
+    x = 5
   pi = 0
   while x <= piLen:
     pi = pi + (4/x)
